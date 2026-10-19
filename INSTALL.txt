@@ -1,0 +1,5 @@
+PPT Make Skill v3.2.0
+
+上传/解压整个 ppt-make-skill 文件夹作为 Agent Skill；SKILL.md 位于文件夹根目录。
+可选脚本依赖见 requirements.txt。PowerPoint/PPTX 渲染需要 LibreOffice；PDF裁图需要PyMuPDF。
+详细步骤见 README.md 和 docs/USER_GUIDE.md。

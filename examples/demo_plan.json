@@ -1,0 +1,23 @@
+{
+  "source_template": "source_template.pptx",
+  "output": "outputs/demo_output.pptx",
+  "slides": [
+    {
+      "source_slide": 2,
+      "replace": {
+        "原模板标题": "研究背景：问题与应用场景"
+      },
+      "items": [
+        {
+          "type": "text",
+          "text": "• 研究动机（演示占位）\n• 现有方法不足（演示占位）",
+          "x": 1.0,
+          "y": 1.5,
+          "w": 5.5,
+          "h": 2.2,
+          "font_size": 20
+        }
+      ]
+    }
+  ]
+}
