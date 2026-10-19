@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PPT Make Skill v3.2.0 — 研究生组会论文汇报
 
 这是一个可上传到支持 Agent Skills 的工具中的独立 Skill 包。此目录根部直接包含 `SKILL.md`。
@@ -33,3 +34,6 @@
 可选脚本使用 Python 3.10+。依赖见 `requirements.txt`。`render_pptx.py` 需要 LibreOffice；PDF 裁图需要 PyMuPDF。辅助脚本不能代替论文精读、学术判断和人工目视验收。
 
 此 Skill 的许可仅适用于包内原创文档和代码，不覆盖第三方论文、数据集、机构标识或用户提供的模板。
+=======
+# PPT_Make_Skill
+>>>>>>> 1278a5b173e57f2fea0cbc2d0183e2b5bf95ddf3
